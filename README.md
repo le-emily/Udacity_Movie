@@ -1,19 +1,19 @@
 # xdplethi's Movie Trailer
-To run this program and see a list of xdplethi's favorite movies:
+To run this program and see a list of xdplethi's favorite movies please do the following:
 
-## Make sure Python is installed
+## Ensure Python is installed
 
-Open up your terminal and run:
+Open up  terminal and run:
 
 $ python
 
-It should return some version of Python 2.7. If you are running Python 3.0, you will need to run some sort of virtual environment: http://docs.python-guide.org/en/latest/dev/virtualenvs/
+Make sure it returns some version of Python 2.7. 
 
-If Python is not installed at all, see the documentation here: https://www.python.org
+If Python is not installed at all, please go to this url for installation instructions: https://www.python.org
 
 ## Clone the Repository
 
-Once you are sure Python 2.7 is installed correctly execute the following:
+Once Python 2.7 is installed correctly execute the following:
 
 $ git clone https://git@github.com/xdplethi/Udacity-Movie.git
 $ cd udacity-movie
@@ -22,4 +22,4 @@ $ cd udacity-movie
 
 $ python entertainment.py
 
-A browser should open on your local machine and and render the HTML template with xdplethi's favorite movies. Click on a movie thumbnail to view the trailer!
+A browser will open to show a list of movies. Feel free to click on a movie thumbnail to view the trailer :)
