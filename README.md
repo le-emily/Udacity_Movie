@@ -1,7 +1,7 @@
 # xdplethi's Movie Trailer
-To run this program and see a list of Pooglia's favorite movies:
+To run this program and see a list of xdplethi's favorite movies:
 
-Make sure Python is installed
+## Make sure Python is installed
 
 Open up your terminal and run:
 
