@@ -15,7 +15,7 @@ If Python is not installed at all, see the documentation here: https://www.pytho
 
 Once you are sure Python 2.7 is installed correctly execute the following:
 
-$ git clone https://github.com/p00gz/udacity-movie-trailer-website.git
+$ git clone https://git@github.com/xdplethi/Udacity-Movie.git
 $ cd udacity-movie-trailer-website
 
 ## Execute the program:
