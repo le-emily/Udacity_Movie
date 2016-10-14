@@ -1,4 +1,4 @@
-# Udacity-FullStack
+# xdplethi's Movie Trailer
 To run this program and see a list of Pooglia's favorite movies:
 
 Make sure Python is installed
@@ -11,14 +11,14 @@ It should return some version of Python 2.7. If you are running Python 3.0, you 
 
 If Python is not installed at all, see the documentation here: https://www.python.org
 
-# Clone the Repository
+## Clone the Repository
 
 Once you are sure Python 2.7 is installed correctly execute the following:
 
 $ git clone https://github.com/p00gz/udacity-movie-trailer-website.git
 $ cd udacity-movie-trailer-website
 
-# Execute the program:
+## Execute the program:
 
 $ python entertainment.py
 
