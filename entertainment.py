@@ -1,6 +1,11 @@
 import media
 import fresh_tomatoes
 
+    
+    
+# using instance to call movies -- some_movie=media.Movie("title","poster_image",
+#                                                           "trailer")
+
 PULP_FICTION = media.Movie("Pulp Fiction",
                            "https://upload.wikimedia.org/wikipedia/en/"
                            "thumb/8/82/Pulp_Fiction_cover.jpg/"
@@ -44,7 +49,9 @@ AMERICAN_PSYCHO = media.Movie("American Psycho",
                               "220px-Americanpsychoposter.jpg",
                               "https://www.youtube.com/watch?v=2GIsExb5jJU")
 
+#appending movies into a list
+movies = [PULP_FICTION, SHAUN_OF_THE_DEAD, SOCIAL_NETWORK, HOT_FUZZ, 
+          EDWARD_SCISSORHANDS, AMERICAN_HUSTLE, AMERICAN_PSYCHO]
 
-movies = [PULP_FICTION, SHAUN_OF_THE_DEAD, SOCIAL_NETWORK, HOT_FUZZ, EDWARD_SCISSORHANDS, AMERICAN_HUSTLE, AMERICAN_PSYCHO]
-
+# calling the external rendering function
 fresh_tomatoes.open_movies_page(movies)
